@@ -60,7 +60,7 @@
 
 ### Sistemas Operacionais
 <div style="display: inline_block"><br>
-  <img align="center" alt="Raissa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linu/linu-original.svg">
+  <img align="center" alt="Raissa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
 
 ## Contatos:
