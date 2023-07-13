@@ -14,14 +14,14 @@
 </div>
 
 ## Ferramentas e Tecnologias
-# Lingugens
+### Lingugens
 <div style="display: inline_block"><br>
   <img align="center" alt="Raissa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Raissa-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Raissa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-# Back-end
+### Back-end
 <div style="display: inline_block"><br>
   <img align="center" alt="Raissa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Raissa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
@@ -29,27 +29,27 @@
 </div>
 
 
-# Front-end
+### Front-end
 <div style="display: inline_block"><br>
   <img align="center" alt="Raissa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Raissa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Raissa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-# Infraestrutura
+### Infraestrutura
 <div style="display: inline_block"><br>
   <img align="center" alt="Raissa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Raissa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
 </div>
 
-# Banco de dados
+### Banco de dados
 <div style="display: inline_block"><br>
   <img align="center" alt="Raissa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Raissa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg">
   <img align="center" alt="Raissa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 </div>
 
-# Ferramentas
+### Ferramentas
 <div style="display: inline_block"><br>
   <img align="center" alt="Raissa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Raissa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
@@ -58,7 +58,7 @@
   <img align="center" alt="Raissa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg">
 </div>
 
-# Sistemas Operacionais
+### Sistemas Operacionais
 <div style="display: inline_block"><br>
   <img align="center" alt="Raissa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linu/linu-original.svg">
 </div>
